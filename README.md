@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Salesforce development, mostly LWC and integrations.
+- 🌱 I’m currently learning enterprise Python, Node.js
+- 💬 Ask me about [Awesome LWC](https://github.com/Confirm4Crit/awesome-lwc)
+- 📫 How to reach me: [Here](https://milesrobson.com/)
+- 😄 Pronouns: He/Him
 <!--
 **Confirm4Crit/Confirm4Crit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
