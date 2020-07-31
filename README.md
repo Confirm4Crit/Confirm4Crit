@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Salesforce development, mostly LWC and integrations.
-- 🌱 I’m currently learning enterprise Python, Node.js
+- 🔭 I’m currently working professionally on Salesforce development, mostly LWC and integrations.
+- 🌱 I’m currently learning enterprise Python, Functional and Node.js, and Rust.
 - 💬 Ask me about [Awesome LWC](https://github.com/Confirm4Crit/awesome-lwc)
 - 📫 How to reach me: [Here](https://milesrobson.com/)
 - 😄 Pronouns: He/Him
