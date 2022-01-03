@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working professionally on Salesforce development, mostly LWC and integrations.
-- 🌱 I’m currently learning React, Node.JS for work, and, uh, everything else for fun?.
+- 🔭 I’m currently working professionally on Salesforce development, mostly integrations.
+- 🌱 I’m currently focusing on Rust, Kotlin, and NodeJS.
 - 💬 Ask me about [Awesome LWC](https://github.com/Confirm4Crit/awesome-lwc)!
 - 📫 How to reach me: [Here](https://milesrobson.com/)
 - 😄 Pronouns: He/Him
