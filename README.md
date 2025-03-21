@@ -1,9 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working professionally on Salesforce development, mostly integrations.
-- 🌱 I’m currently focusing on Rust, Kotlin, and NodeJS.
+- 🔭 I’m currently working professionally on Salesforce development.
+- 🌱 Outside of SFDC, I’m currently focusing on GODOT and Python.
 - 💬 Ask me about [Awesome LWC](https://github.com/Confirm4Crit/awesome-lwc)!
 - 📫 How to reach me: [Here](https://milesrobson.com/)
-- 😄 Pronouns: He/Him
 <!--
 **Confirm4Crit/Confirm4Crit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
